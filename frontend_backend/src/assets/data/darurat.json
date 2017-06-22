@@ -1,0 +1,99 @@
+{
+  "data": {
+    "status": "success",
+    "kontak": [
+      {
+        "nama": "Ambulan Kecelakaan",
+        "telepon": "118"
+      },
+      {
+        "nama": "Dinas Pencegahan dan Penanggulangan Kebakaran Kota Semarang",
+        "telepon": "022 720 7113"
+      },
+      {
+        "nama": "RSUP Dr Kariadi",
+        "telepon": " (024) 290-200, 841-4281"
+      },
+      {
+        "nama": "RSJ Daerah Dr Amino Gondohutomo",
+        "telepon": " (024) 672-2564"
+      },
+      {
+        "nama": "Dinas Pemadam Kebakaran Kota Semarang ",
+        "telepon": "(024) 760-5871"
+      },
+      {
+        "nama": "Informasi untuk Pelayanan Transfusi Darah",
+        "telepon": "022 420 7051"
+      },
+      {
+        "nama": "Informasi untuk Pelayanan Transfusi Darah",
+        "telepon": "022 420 7052"
+      },
+      {
+        "nama": "Siaga P3K dan Pelayanan Bencana",
+        "telepon": "022 421 3858"
+      },
+      {
+        "nama": "Siaga P3K dan Pelayanan Bencana Cabang Kabupaten Semarang",
+        "telepon": "022 589 1313"
+      },
+      {
+        "nama": "Pengaduan dan informasi PLN ",
+        "telepon": "(024) 290-123, (024) 354-7651 s/d 354-7655"
+      },
+      {
+        "nama": "Kantor SAR Nasional",
+        "telepon": "(024) 762-8345"
+      },
+      {
+        "nama": "Sentra Informasi Keracunan",
+        "telepon": "021 4250 767"
+      },
+      {
+        "nama": "Call Center PDAM Tirta Moedal Kota Semarang",
+        "telepon": "(024) 7692-0999"
+      },
+      {
+        "nama": "Polisi",
+        "telepon": "112"
+      },
+      {
+        "nama": "Kantor SAR",
+        "telepon": "115"
+      },
+      {
+        "nama": "PMI Kota Semarang ",
+        "telepon": "(024) 354-1237"
+      },
+      {
+        "nama": "Posko Penanggulangan bencana PMI Provinsi Jawa Tengah",
+        "telepon": "(024) 7674-6702"
+      },
+      {
+        "nama": "Polsek Semarang Utara",
+        "telepon": "(024) 354-5162"
+      },
+      {
+        "nama": "Polsek Semarang Timur",
+        "telepon": "(024) 671-6191"
+      },
+      {
+        "nama": "Polsek Semarang Tengah ",
+        "telepon": "(024) 354-5175"
+      },
+      {
+        "nama": "Polsek Semarang Selatan",
+        "telepon": "(024) 831-5123"
+      },
+      {
+        "nama": "Polsek Semarang Barat",
+        "telepon": "(024) 760-4153"
+      },
+      {
+        "nama": "Polres Semarang",
+        "telepon": "(024) 844-4444"
+      }
+    ]
+  }
+}

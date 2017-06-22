@@ -1,0 +1,271 @@
+{
+  "data": {
+    "status": "success",
+    "kontak": [
+      {
+        "nama": "RSIA. Adina Wonosobo",
+        "telepon": "0286 321301"
+      },
+      {
+        "nama": "Badan RSD. RAA. Soewondo PATI",
+        "telepon": "0294 381433"
+      },
+      {
+        "nama": "   RS. KRISTEN NGESTI WALUYO",
+        "telepon": "0293 596008"
+      },
+      {
+        "nama": "RS. Kusta Tugurejo Semarang",
+        "telepon": "024 604398"
+      },
+      {
+        "nama": "RS. Marga Husada",
+        "telepon": "0273 321394"
+      },
+      {
+        "nama": "RS. Panti Wilasa Dr. Cipto",
+        "telepon": "024 3546040"
+      },
+      {
+        "nama": "RS. Paru Dr. Ario Wirawan",
+        "telepon": "0299 326130"
+      },
+      {
+        "nama": "RS. PKU Muhammadiyah Surakarta",
+        "telepon": "0271 714578"
+      },
+      {
+        "nama": "RS. Roemani Mohammadiyah Semarang",
+        "telepon": "024 8444623"
+      },
+      {
+        "nama": "RS. Siti Khodijah Pekalongan",
+        "telepon": "0285) 422845"
+      },
+      {
+        "nama": "RS. TK. III Bhakti Wira Tamtama Semarang",
+        "telepon": "024 3555744 557700"
+      },
+      {
+        "nama": "RS. Tk. IV 04. 07. 02 (DKT) Surakarta",
+        "telepon": "719606"
+      },
+      {
+        "nama": "RS. Yasmin",
+        "telepon": "0333 424671"
+      },
+      {
+        "nama": "RSD. Prof. Dr. Margono Soekarjo Purwokerto",
+        "telepon": "022 7208 172"
+      },
+      {
+        "nama": "RSI. PK. Muhammadiyah Moga Pemalang",
+        "telepon": "022 7301 062"
+      },
+      {
+        "nama": "RSU Muhammadiyah",
+        "telepon": "0284 584410"
+      },
+      {
+        "nama": "RSI. PKU Muhammadiyah Pekajangan",
+        "telepon": "022 7562 046"
+      },
+      {
+        "nama": "RSIA Gunung Sawo I",
+        "telepon": "024 315171 311007"
+      },
+      {
+        "nama": "RSJ. Daerah Dr. Amino Gondohutomo",
+        "telepon": "024 5722564"
+      },
+      {
+        "nama": "RSU Rembang",
+        "telepon": "022 6652 025"
+      },
+      {
+        "nama": "RSU. Pandan Arang Kab. Dati II Boyolali",
+        "telepon": "0276 21065"
+      },
+      {
+        "nama": "RSU. PKU Muhammadiyah Gombong",
+        "telepon": "0287 471780 , 471639"
+      },
+      {
+        "nama": "RSU. PKU Muhammadiyah Temanggung",
+        "telepon": "0293 362260"
+      },
+      {
+        "nama": "RSU. Tidar Kota Magelang",
+        "telepon": "022 5940 872"
+      },
+      {
+        "nama": "RSUD Dr. Moewardi Surakarta",
+        "telepon": "(0271) 634634"
+      },
+      {
+        "nama": "RSUD Karang Anyar",
+        "telepon": "022 6011 913"
+      },
+      {
+        "nama": "RSUD. Dr Soeradji Tirtonegoro",
+        "telepon": "0272 21041"
+      },
+      {
+        "nama": "   RSUD. Dr. Raden Soedjati",
+        "telepon": "0292 424025"
+      },
+      {
+        "nama": "RSUD. Kabupaten Temanggung",
+        "telepon": "0293 491119, 493025"
+      },
+      {
+        "nama": "RSUD. Kabupaten Wonogiri",
+        "telepon": "0273 321042"
+      },
+      {
+        "nama": "RSUD. Kota Salatiga",
+        "telepon": "0298 324074"
+      },
+      {
+        "nama": "Rumah Bersalin Soegijopranoto",
+        "telepon": "024 606710"
+      },
+      {
+        "nama": "Rumah Sakit Bersalin Bunda Semarang",
+        "telepon": "024 515775 413150"
+      },
+      {
+        "nama": "Rumah Sakit Bersalin Catur Putra",
+        "telepon": "022 7666 6118"
+      },
+      {
+        "nama": "Rumah Sakit Bersalin Dewi Sekartaji",
+        "telepon": "024-6747810, 024-520267"
+      },
+      {
+        "nama": "Rumah Sakit Bersalin Gladiol Magelang",
+        "telepon": "0293 62702"
+      },
+      {
+        "nama": "Rumah Sakit Bhakti Waluyo",
+        "telepon": "0285 23623"
+      },
+      {
+        "nama": "Rumah Sakit Budi Rahayu Pekalongan",
+        "telepon": "0285 423491"
+      },
+      {
+        "nama": "Rumah Sakit Cinta Kasih",
+        "telepon": "022 4231 280"
+      },
+      {
+        "nama": "Rumah Sakit Dharma Husada",
+        "telepon": "022 4231 281"
+      },
+      {
+        "nama": "Rumah Sakit Dr. Oen Surakarta",
+        "telepon": "(0271) 43139"
+      },
+      {
+        "nama": "Rumah Sakit Islam Banjarnegara",
+        "telepon": "( 0292) 21004"
+      },
+      {
+        "nama": "Rumah Sakit Islam Fatimah Cilacap",
+        "telepon": "0282 542396"
+      },
+      {
+        "nama": "Rumah Sakit Islam Harapan Anda",
+        "telepon": "(0283) 358244"
+      },
+      {
+        "nama": "   Rumah Sakit Islam Klaten",
+        "telepon": "0272 322252"
+      },
+      {
+        "nama": "Rumah Sakit Islam Kustati",
+        "telepon": "00271 643013"
+      },
+      {
+        "nama": "Rumah Sakit Islam MA Ngasirah",
+        "telepon": "(0295) 452316, 5517683"
+      },
+      {
+        "nama": "Rumah Sakit Islam Pati",
+        "telepon": "022 6654 852"
+      },
+      {
+        "nama": "Rumah Sakit Islam Purwokerto",
+        "telepon": "0281 35627"
+      },
+      {
+        "nama": "Rumah Sakit Islam Sultan Agung – Semarang",
+        "telepon": "580019"
+      },
+      {
+        "nama": "Rumah Sakit Islam Sunan Kudus",
+        "telepon": "0291 32008 34008"
+      },
+      {
+        "nama": "Rumah Sakit Islam Surakarta",
+        "telepon": "0271 710571-2"
+      },
+      {
+        "nama": "Rumah Sakit Islam Texin",
+        "telepon": "0283 53387"
+      },
+      {
+        "nama": "Rumah Sakit Jiwa Surakarta",
+        "telepon": "0271 641442"
+      },
+      {
+        "nama": "Rumah Sakit Khusus Puri Asih",
+        "telepon": "(024) 314723"
+      },
+      {
+        "nama": "Rumah Sakit Kristen Ngesti Waluyo",
+        "telepon": "022 4232 777"
+      },
+      {
+        "nama": "RSU Kasih Bunda",
+        "telepon": "022 6614 221"
+      },
+      {
+        "nama": "Rumah Sakit Kristen Tayu",
+        "telepon": "0295 452228 / 452173"
+      },
+      {
+        "nama": "Rumah Sakit Lestari Raharja",
+        "telepon": "0293 362225"
+      },
+      {
+        "nama": "Rumah Sakit Mardi Lestari",
+        "telepon": "0271 891-33"
+      },
+      {
+        "nama": "Rumah Sakit Mardi Rahayu Kudus",
+        "telepon": "(0291) 434707-10, 0888 0253 0101"
+      },
+      {
+        "nama": "Rumah Sakit Mata Majapahit",
+        "telepon": ""
+      },
+      {
+        "nama": "Rumah Sakit Nirmala Suri",
+        "telepon": "0271 592192, 593814"
+      },
+      {
+        "nama": "Rumah Sakit Palang Biru",
+        "telepon": "0287 71290"
+      },
+      {
+        "nama": "Rumah Sakit Panti Rahayu",
+        "telepon": "0292 421087, 422325"
+      },
+      {
+        "nama": "Rumah Sakit Umum Daerah Kab. Wonosobo",
+        "telepon": "0286 320191"
+      }
+    ]
+  }
+}

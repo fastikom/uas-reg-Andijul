@@ -1,0 +1,79 @@
+{
+  "data": {
+    "status": "success",
+    "kontak": [
+      {
+        "nama": "Call Center PLN (Perusahaan Listrik Negara)",
+        "telepon": "123"
+      },
+      {
+        "nama": "Telkom ",
+        "telepon": "(0295) 691117"
+      },
+      {
+        "nama": "Kantor PDAM ",
+        "telepon": "(0295) 6998092"
+      },
+      {
+        "nama": "Pegadaian",
+        "telepon": "0295 691060"
+      },
+      {
+        "nama": "Pelabuhan",
+        "telepon": "(0295) 691221"
+      },
+      {
+        "nama": "Dinas Pendidikan Dan Kebudayaan",
+        "telepon": "(0295) 691326"
+      },
+      {
+        "nama": "Dinas Sosial Tenaga Kerja Dan Transmigrasi",
+        "telepon": "(0295) 691349"
+      },
+      {
+        "nama": "Kantor Kementerian Agama Kab. Rembang",
+        "telepon": " (0295) 691016"
+      },
+      {
+        "nama": "Call Center Telkom",
+        "telepon": "147"
+      },
+      {
+        "nama": "Pengaduan Gangguan Telepon",
+        "telepon": "117"
+      },
+      {
+        "nama": "Informasi Tagihan Telepon",
+        "telepon": "109"
+      },
+      {
+        "nama": "Pelayanan Informasi Jasa Pos",
+        "telepon": "161"
+      },
+      {
+        "nama": "Komnas HAM",
+        "telepon": "021 3925 230"
+      },
+      {
+        "nama": "Yayasan Lembaga Bantuan Konsumen Indonesia YLBKI",
+        "telepon": "022 7071 1602"
+      },
+      {
+        "nama": "Lembaga Bantuan Hukum",
+        "telepon": "022 7279 956"
+      },
+      {
+        "nama": "Pesan Antar McDonalds",
+        "telepon": "14045"
+      },
+      {
+        "nama": "Pesan Antar Pizza Hut",
+        "telepon": "1500 600"
+      },
+      {
+        "nama": "Pesan Antar KFC",
+        "telepon": "14022"
+      }
+    ]
+  }
+}
